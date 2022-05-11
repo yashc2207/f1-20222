@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.364884d3.css",
+    "main.js": "/static/js/main.771ebced.js",
+    "static/js/787.83f31d33.chunk.js": "/static/js/787.83f31d33.chunk.js",
+    "static/media/mclaren.png": "/static/media/mclaren.604e0fd12f768dbe66a8.png",
+    "static/media/f1_money.jpg": "/static/media/f1_money.8fbd128e89fd13868164.jpg",
+    "static/media/f1_engine.jpg": "/static/media/f1_engine.d2684da56b82c77971df.jpg",
+    "static/media/mercedes.png": "/static/media/mercedes.a4d9d7f3f0df83575eb0.png",
+    "static/media/redbull.jpg": "/static/media/redbull.fc66b830fdeeabfd78a9.jpg",
+    "static/media/ferrari.jpg": "/static/media/ferrari.8807edd8f83644ef1836.jpg",
+    "static/media/img_proto_car.jpg": "/static/media/img_proto_car.25b575c6d8d96f968d78.jpg",
+    "static/media/f1_aero.jpg": "/static/media/f1_aero.63504a12d00d14ef2e45.jpg",
+    "index.html": "/index.html",
+    "main.364884d3.css.map": "/static/css/main.364884d3.css.map",
+    "main.771ebced.js.map": "/static/js/main.771ebced.js.map",
+    "787.83f31d33.chunk.js.map": "/static/js/787.83f31d33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364884d3.css",
+    "static/js/main.771ebced.js"
+  ]
+}
